@@ -1,3 +1,3 @@
 # calculateit
 
-Simple Maths for calculation
+Branch for hosting static web page over github pages.
